@@ -1,5 +1,13 @@
+**TL;DR:**
+A super simple Discord bot that lets you chat with Gemini AI. Just mention the bot in a server and it’ll reply.
 
-A very simple Discord bot that lets you chat with **Gemini AI** directly through Discord.
+Setup:
+
+Put your Discord token and Gemini API key in a .env file (or hardcode if you don’t care).
+
+Run it, ping it, get answers. Easy.
+
+
 
 **Features:**
 
