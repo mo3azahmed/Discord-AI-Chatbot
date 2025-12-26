@@ -23,11 +23,7 @@ Run it, ping it, get answers. Easy.
    TOKEN=your_discord_token
    GEMINI_API_KEY=your_gemini_api_key
    ```
-3. Install dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
+   
 4. Run the bot:
 
    ```
